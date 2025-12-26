@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hola a todos 👋
 
-:computer: ##Economista Independiente##
+:computer: 
+##  Economista Independiente 
 
-###vías de contacto###
-![website](ronald.rosa96@gmail.com)
+###  Vías de contacto
+Correo: ronald.rosa96@gmail.com
