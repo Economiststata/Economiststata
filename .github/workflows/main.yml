@@ -1,27 +1,20 @@
-name: Update README3
+name: Recent Activity Workflow
 
 on:
-
   schedule:
-
-    - cron: '0 */12 * * *' # Cada 12 horas
-
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
-
-  build:
-
+  update-readme:
     runs-on: ubuntu-latest
-
-    name: Update Profile README
-
     steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4 # <--- ESTO ES LO QUE PERMITE QUE VEA EL README
 
-      - uses: actions/checkout@v2.3.4
-
-      - uses: Readme-Workflows/recent-activity@v2.4.1
-
+      - name: Actualizar actividad
+        uses: Readme-Workflows/recent-activity@v2.4.1
         env:
-
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          TITLE: "⚡ Mi Actividad Reciente"
