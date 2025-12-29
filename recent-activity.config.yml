@@ -1,0 +1,4 @@
+# Configuración para el bot de actividad reciente
+title: "⚡ Recent Activity"
+limit: 5
+display_repository_name: true
