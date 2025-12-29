@@ -7,7 +7,6 @@
 Correo: ronald.rosa96@gmail.com
 
 ⚡ Recent Activity
-
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
