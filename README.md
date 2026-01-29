@@ -12,5 +12,4 @@ Correo: ronald.rosa96@gmail.com
 2. ⬆️ Pushed undefined commit(s) to [Economiststata/MIREPO3](https://github.com/Economiststata/MIREPO3)<br>
 3. ⬆️ Pushed undefined commit(s) to [Economiststata/MiCuartoRepo](https://github.com/Economiststata/MiCuartoRepo)<br>
 4. 💪 Opened PR [#2](undefined) in [Economiststata/MiCuartoRepo](https://github.com/Economiststata/MiCuartoRepo)<br>
-5. ⬆️ Pushed undefined commit(s) to [Economiststata/MiCuartoRepo](https://github.com/Economiststata/MiCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
